@@ -28,5 +28,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-/outputs/distributed/csv
-/outputs/threaded/csv
+/outputs/
+/.idea/
